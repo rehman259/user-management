@@ -5,7 +5,7 @@
 The API allows you to perform CRUD operations (Create, Read, Update, Delete) on user data in a database. You can create new users, retrieve user data, update existing users, and delete users.
 
 
-1. Retrieves all users.
+### Retrieves all users.
 
 ##### Request
 - Method: GET
@@ -32,7 +32,8 @@ The API allows you to perform CRUD operations (Create, Read, Update, Delete) on 
   ]
   ```
 
-2. Retrieves a specific user by ID.
+
+### Retrieves a specific user by ID.
 
 ##### Request
 - Method: GET
@@ -52,7 +53,7 @@ The API allows you to perform CRUD operations (Create, Read, Update, Delete) on 
   }
   ```
 
-3. Creates a new user.
+### Creates a new user.
 
 ##### Request
 - Method: POST
@@ -77,7 +78,8 @@ The API allows you to perform CRUD operations (Create, Read, Update, Delete) on 
   }
   ```
 
-4. Updates an existing user.
+
+### Updates an existing user.
 
 ##### Request
 - Method: PUT
@@ -102,7 +104,8 @@ The API allows you to perform CRUD operations (Create, Read, Update, Delete) on 
   }
   ```
 
-5. Deletes a user.
+
+### Deletes a user.
 
 ##### Request
 - Method: DELETE
